@@ -497,3 +497,17 @@ INFO:root:HELLO
 INFO:root:HELLO
 INFO:root:HELLO
 INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 19:40:44] "[37mPOST /review HTTP/1.1[0m" 200 -
+INFO:werkzeug: * Running on http://0.0.0.0:8000/ (Press CTRL+C to quit)
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 20:29:51] "[37mGET /review HTTP/1.1[0m" 200 -
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:5
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:root:HELLO
+INFO:werkzeug:172.18.0.2 - - [23/Sep/2023 20:29:59] "[37mPOST /review HTTP/1.1[0m" 200 -
